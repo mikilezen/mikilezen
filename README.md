@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**mikilezen/mikilezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm mikilezen, welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Building interesting projects and learning new technologies
+- Contributing to open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Software development best practices
+- New programming languages and frameworks
+
+### 💬 Get in touch
+Feel free to explore my repositories and reach out if you'd like to collaborate!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mikilezen)
