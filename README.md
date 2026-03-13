@@ -19,6 +19,14 @@ I'm a Machine Learning Engineer passionate about building intelligent systems an
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+ ![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat&logo=spacy&logoColor=white) 
+ ![BEATS](https://img.shields.io/badge/-BEATS-00C4CC?style=flat&logo=azure-devops&logoColor=white) 
+  
+ **Frontend & Mobile** 
+  
+ ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+ ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ---
 
 ⭐️ *From [mikilezen](https://github.com/mikilezen)*
