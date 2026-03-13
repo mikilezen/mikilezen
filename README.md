@@ -4,12 +4,11 @@
 
 I'm a Machine Learning Engineer passionate about building intelligent systems and advancing AI research.
 
-- 🔭 I'm currently working on **[mava](https://github.com/instadeepai/mava)** — a research framework for multi-agent reinforcement learning built on top of JAX.
-- 🧠 I'm also working on **[megent](https://github.com/mikilezen/megent)** — an ML agent project pushing the boundaries of autonomous decision-making.
+- 🔭 I'm currently working on **[mavaAI](https://github.com/mavaAI)** — an AI researcher
+- 🧠 I'm also working on **[megent](https://github.com/megent-ai)** — an ML agent project pushing the boundaries of autonomous decision-making.
 - 🌱 Exploring deep reinforcement learning, multi-agent systems, and scalable ML pipelines.
-- 💬 Ask me about multi-agent RL, JAX, Python, and ML system design.
-- 📫 How to reach me: open an issue or connect on GitHub!
-
+- 💬 Ask me about LLM, NLP, Computer Vision,multi-agent RL, JAX, Python, and ML system design.
+- 📫 How to reach me: open an issue or connect on Github and [mikile.tech](https://mikile.tech)
 ---
 
 ### 🛠️ Technologies & Tools
@@ -20,16 +19,6 @@ I'm a Machine Learning Engineer passionate about building intelligent systems an
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **mava** | Multi-agent reinforcement learning framework powered by JAX |
-| **megent** | Intelligent ML agent for autonomous decision-making tasks |
-
 ---
 
 ⭐️ *From [mikilezen](https://github.com/mikilezen)*
