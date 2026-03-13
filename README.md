@@ -1,35 +1,28 @@
-## Hi there 👋, I'm Mikiyas Zenebe
+# Project Descriptions
 
-### 🤖 ML Engineer
+## Mava
+Mava is a cutting-edge research AI framework designed to drive innovative solutions in artificial intelligence development. It offers robust tools and libraries tailored for researchers and developers striving to push the boundaries of AI applications.
 
-I'm a Machine Learning Engineer passionate about building intelligent systems and advancing AI research.
+## Megent
+Megent focuses on developing machine learning agents with a strong emphasis on security. This project aims to create ML agents that not only perform efficiently but also ensure the integrity and security of data being processed.
 
-- 🔭 I'm currently working on **[mava](https://github.com/instadeepai/mava)** — a research framework for multi-agent reinforcement learning built on top of JAX.
-- 🧠 I'm also working on **[megent](https://github.com/mikilezen/megent)** — an ML agent project pushing the boundaries of autonomous decision-making.
-- 🌱 Exploring deep reinforcement learning, multi-agent systems, and scalable ML pipelines.
-- 💬 Ask me about multi-agent RL, JAX, Python, and ML system design.
-- 📫 How to reach me: open an issue or connect on GitHub!
+# Enhanced Sections
 
----
+## AILVision Classroom Intelligence System
+The AILVision Classroom Intelligence System leverages advanced machine learning algorithms to improve the learning environment, providing tailored educational experiences for students and educators alike.
 
-### 🛠️ Technologies & Tools
+## Ethiopia Semantic Projects
+This initiative is aimed at enhancing the understanding and application of semantic technologies within Ethiopia, promoting research and development in this vital area.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JAX](https://img.shields.io/badge/-JAX-A020F0?style=flat&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Flutter
+Flutter is an open-source UI software development toolkit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows, and the web from a single codebase.
 
----
+## Next.js
+Next.js is a React framework that enables functionality such as server-side rendering and static site generation for web applications, providing improved performance and SEO.
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **mava** | Multi-agent reinforcement learning framework powered by JAX |
-| **megent** | Intelligent ML agent for autonomous decision-making tasks |
-
----
-
-⭐️ *From [mikilezen](https://github.com/mikilezen)*
+# Complete Tech Stack
+Our tech stack includes:
+- **scikit-learn**: A powerful Python library for machine learning and data mining.
+- **Natural Language Processing (NLP)**: Techniques and tools for understanding and processing human language data.
+- **BEATS**: A framework that allows users to timeliner and visualize data.
+- **Other Tools**: Various additional tools designed to complement the main tech stack for comprehensive project development.
