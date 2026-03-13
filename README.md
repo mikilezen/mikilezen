@@ -23,8 +23,6 @@ I'm a Machine Learning Engineer passionate about building intelligent systems an
  ![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat&logo=spacy&logoColor=white) 
  ![BEATS](https://img.shields.io/badge/-BEATS-00C4CC?style=flat&logo=azure-devops&logoColor=white) 
   
- **Frontend & Mobile** 
-  
  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ---
