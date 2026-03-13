@@ -8,7 +8,7 @@ I'm a Machine Learning Engineer passionate about building intelligent systems an
 - 🧠 I'm also working on **[megent](https://github.com/megent-ai)** — an ML agent project pushing the boundaries of autonomous decision-making.
 - 🌱 Exploring deep reinforcement learning, multi-agent systems, and scalable ML pipelines.
 - 💬 Ask me about LLM, NLP, Computer Vision,multi-agent RL, JAX, Python, and ML system design.
-- 📫 How to reach me: open an issue or connect on Github and [mikile.tech](https://mikile.tech)
+- 📫 How to reach me: open an issue or connect on Github and mikile.tech
 ---
 
 ### 🛠️ Technologies & Tools
