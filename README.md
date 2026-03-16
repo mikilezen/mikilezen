@@ -4,7 +4,7 @@
 
 I'm a Machine Learning Engineer passionate about building intelligent systems and advancing AI research.
 
-- 🔭 I'm currently working on **[mava](https://github.com/instadeepai/mava)** — a research framework for multi-agent reinforcement learning built on top of JAX.
+- 🔭 I'm currently working on **[mava](https://github.com/mavaai)** — a research framework for multi-agent reinforcement learning built on top of JAX.
 - 🧠 I'm also working on **[megent](https://github.com/mikilezen/megent)** — an ML agent project pushing the boundaries of autonomous decision-making.
 - 🌱 Exploring deep reinforcement learning, multi-agent systems, and scalable ML pipelines.
 - 💬 Ask me about multi-agent RL, JAX, Python, and ML system design.
